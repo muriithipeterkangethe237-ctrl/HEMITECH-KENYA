@@ -1,5 +1,7 @@
 # Hemitech Kenya
 
+[Visit the live Hemitech Kenya website](https://muriithipeterkangethe237-ctrl.github.io/HEMITECH-KENYA/)
+
 <p align="center">
   <img src="assets/logo-banner.svg" alt="Hemitech Kenya banner logo" width="920" />
 </p>
